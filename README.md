@@ -62,9 +62,3 @@ Managing GUI Event Handling and user input in C++.
 
 Structuring projects using the src/assets directory convention.
 
-
-### Why your video wasn't showing:
-1.  **Filename Mismatch:** You had it as `demo.mp4` in the code but `sudoku.mp4` in the folder.
-2.  **Space formatting:** Sometimes GitHub's markdown parser gets picky about spaces inside HTML tags. I've simplified the `<video>` tag for better compatibility.
-
-**One final check:** Make sure your video is definitely inside a folder named `assets` (all lowe
