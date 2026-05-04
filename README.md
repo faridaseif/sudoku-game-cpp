@@ -44,7 +44,8 @@ https://github.com/user-attachments/assets/24a2ec79-e7f7-408b-a776-c49224f13abe
 │   ├── MyForm.h     # Main UI window
 │   └── ...          # Header and implementation files
 └── README.md
-🚀 How to Run
+
+##🚀 How to Run
 Clone the repository:
 
 Bash
@@ -55,7 +56,7 @@ Build: Ensure the C++ desktop development workload is installed.
 
 Run: Press F5 to compile and launch the game.
 
-🧠 Key Takeaways
+##🧠 Key Takeaways
 Implementing Backtracking logic for board validation.
 
 Managing GUI Event Handling and user input in C++.
