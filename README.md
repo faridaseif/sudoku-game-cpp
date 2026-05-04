@@ -62,11 +62,10 @@ Make sure the project is set to x86 or x64 to match your system.
 4. Run
 Press F5 (or click the Start button) to compile and launch the game.
 ---
-
+```
 ## **🧠 Key Takeaways**
 Backtracking Algorithm: Implementing efficient logic for board validation and solving.
 
 Event-Driven Programming: Managing GUI Event Handling and user interaction within the Windows ecosystem.
 
-Project Organization: Structuring C++ projects using industry-standard src/ and assets/ directory conventions.
----
+Project Organization: Using industry-standard src/ and assets/ directory conventions.
