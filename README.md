@@ -42,6 +42,7 @@ https://github.com/user-attachments/assets/3123ae20-178f-4bff-8122-9791d63e2a43
 │   ├── D.h          # Display logic
 │   └── G.h          # Game state management
 └── README.md
+```
 ---
 
 ## **🚀 How to Run**
@@ -64,8 +65,8 @@ Press F5 (or click the Start button) to compile and launch the game.
 ---
 ```
 ## **🧠 Key Takeaways**
-Backtracking Algorithm: Implementing efficient logic for board validation and solving.
+-Backtracking Algorithm: Implementing efficient logic for board validation and solving.
 
-Event-Driven Programming: Managing GUI Event Handling and user interaction within the Windows ecosystem.
+-Event-Driven Programming: Managing GUI Event Handling and user interaction within the Windows ecosystem.
 
-Project Organization: Using industry-standard src/ and assets/ directory conventions.
+-Project Organization: Using industry-standard src/ and assets/ directory conventions.
