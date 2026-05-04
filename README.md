@@ -5,12 +5,17 @@ A clean, interactive 9x9 Sudoku puzzle built with C++ and Windows Forms. This pr
 ---
 
 ## 📷 Demo
-If the video does not play, ensure it is located in the `assets` folder of this repository.
 
 <div align="center">
-  <video src="assets/sudoku.mp4" width="600" controls>
-    Your browser does not support the video tag.
-  </video>
+  
+
+
+https://github.com/user-attachments/assets/24a2ec79-e7f7-408b-a776-c49224f13abe
+
+
+
+
+
 </div>
 
 ---
